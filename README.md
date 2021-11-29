@@ -1,5 +1,11 @@
 # Word Count
 
+This repo is intended as part of a TDD Ping Pong Exercise
+
+Taken from [Exercism](https://exercism.org/tracks/javascript/exercises/word-count)
+
+## Directions 
+
 Given a phrase, count the occurrences of each _word_ in that phrase.
 
 For the purposes of this exercise you can expect that a _word_ will always be one of:
