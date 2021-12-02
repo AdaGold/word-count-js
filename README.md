@@ -21,7 +21,7 @@ When counting words you can assume the following rules:
 1. Other than the apostrophe in a _contraction_ all forms of _punctuation_ are ignored
 1. The words can be separated by _any_ form of whitespace (ie "\t", "\n", " ")
 
-For example, for the phrase `"That's the password: 'PASSWORD 123'!", cried the Special Agent.\nSo I fled.` the count would be:
+For example, for the phrase `"That's the password: PASSWORD 123!", cried the Special Agent.\nSo I fled.` the count would be:
 
 ```text
 that's: 1
